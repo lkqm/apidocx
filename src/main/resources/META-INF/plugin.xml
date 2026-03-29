@@ -74,6 +74,9 @@
     </actions>
 
     <change-notes><![CDATA[
+        1.1.11: <br>
+        - fix: 修复兼容2025.2.3版本rap2验证码问题<br>
+        <br>
         1.1.10: <br>
         - fix: 修复兼容2025.x版本右键菜单问题<br>
         <br>
